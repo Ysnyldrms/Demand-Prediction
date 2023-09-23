@@ -17,15 +17,23 @@ Scaling factor to be applied to the countries
 
 ## Technical Environment
 Python
+
 numpy
+
 pandas
+
 scikit-learn
+
 matplotlib / searborn / altair / plotly
 ## Approach
 The solution is assessed on the following skills:
 
 A thorough evaluation of the data set using statistical measures and visualization
+
 Elegant Python coding skills
+
 Machine Learning modelling fundamentals
+
 Machine Learning Training
+
 Model Evaluation
